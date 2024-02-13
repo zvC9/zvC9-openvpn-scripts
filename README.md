@@ -1,2 +1,3 @@
-# zvC9-openvpn-scripts
-Automation of openvpn configuration
+# openvpn-scripts-zvC9
+see "readme.txt"
+
